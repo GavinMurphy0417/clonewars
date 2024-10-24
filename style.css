@@ -1,0 +1,25 @@
+header {
+  background-color: black;
+  min-height: 20em;
+}
+
+img {
+  max-height: 10em;
+}
+
+.text-small {
+  font-size: .9em;
+}
+
+.button-color {
+  color: green;
+}
+
+.img-size {
+  max-height: 5em;
+  max-width: 5em;
+}
+
+.super-text-small {
+  font-size: 1em;
+}
